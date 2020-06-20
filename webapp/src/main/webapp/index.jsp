@@ -3,6 +3,9 @@
   p {color:blue;}
   h2 {color:green;}
 </style>
+<h2>
+From Jenkins Mchine
+</h2>
 <h6>aaaaaaaaaaaaaaaaaaaaa</h6>
 <h1>Third time</h1>
 <p>Hello</p>
