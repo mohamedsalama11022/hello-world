@@ -4,7 +4,8 @@
   h2 {color:green;}
 </style>
 <h2>
-From Jenkins Mchine
+From Jenkins Mchine <br/>
+Using Ansible playbook to remove old image and container
 </h2>
 <h6>aaaaaaaaaaaaaaaaaaaaa</h6>
 <h1>Third time</h1>
